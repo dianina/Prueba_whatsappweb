@@ -1,0 +1,124 @@
+/*
+*Estilos generales
+*/
+* { 
+  margin:0;
+  padding:0;
+}
+
+body{
+  
+}
+
+/*
+*Estilos header
+*/
+.header1 {
+	background-color: grey;
+	height: 7em;
+}
+
+/*
+*Estilos header pantalla usuario
+*/
+.contacts {
+  border: 1px solid white;
+  border-left: none;
+  border-bottom: none;
+  border-top: none;
+
+}
+.me {
+	border-radius: 50%;
+} 
+
+.msg {
+	font-size: 20px;
+	margin-top: 1em;
+  margin-left: 225px;
+}
+
+.litdots {
+  font-size: 20px;
+  margin-top: 2.5%;
+  margin-left: 25px;
+}
+
+.logo_g_active {
+  border-radius: 50%;
+  width: 3.8em;
+  height: 4em;
+  margin-top: 1.5em;
+  margin-left: 0;
+  display: inline-block;
+}
+
+.labPeru {
+  font-size: 20px;
+  margin-top: -2em;
+  margin-left: 3.5em;
+  font-weight: 900;
+
+}
+
+.logo_group {
+  border: 1px:solid white;
+}
+
+.inviteds {
+  margin-top: -0.7em;
+  margin-left: 5em;
+  font-weight: 100;
+}
+
+.msg2 {
+  font-size: 20px;
+  margin-top: 1.8em;
+  margin-left: 7em;
+}
+
+.litdots2 {
+  font-size: 20px;
+  margin-top: 1em;
+  margin-left: 25px;
+}
+
+/*
+*Estilos Aside
+*/
+
+
+
+.search_friend {
+  background-color: white;
+  width: 100%
+  height: 200px;
+}
+
+.hour {
+  background-color: white;
+  color: black;
+  margin-top: 1em;
+}
+
+.little_pics {
+  border-radius: 50%;
+  width: 3em;
+  padding-left: 0em 0.4em 0 0;
+}
+
+.chat_grupo {
+  background-image: url(../img/imgs/chat-panel-bg.png);
+}
+
+.lamas h5{
+  color:blue;
+}
+
+p {
+  color: black;
+}
+
+.alfaro h5 {
+  color: red;
+}
